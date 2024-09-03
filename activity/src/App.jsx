@@ -8,7 +8,6 @@ function App() {
     <>
     <h3>Blockbuster deals | shop now</h3>
       <ProductTab/>
-    <Button/>
     </>
   )
 }
